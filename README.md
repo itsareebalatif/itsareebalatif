@@ -55,6 +55,7 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
 ### ✦ Let's Connect
 
 <div align="center">
+  <!-- Connect Badges -->
   <a href="https://areebalatif.tech/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-9d8df1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
@@ -64,5 +65,9 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
   <a href="https://github.com/itsareebalatif" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-itsareebalatif-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+
+  <br/><br/>
+
+  <!-- Matching Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d8df1&height=120&section=footer" width="100%" />
 </div>
