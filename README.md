@@ -41,11 +41,11 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
 ### ✦ GitHub Stats
 
 <div align="center">
-  <!-- Streak Tracker -->
+  <!-- Streak Tracker Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" width="48%" />
   &nbsp;
-  <!-- Overall Stats Card (Clean SVG embed) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsareebalatif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&icon_color=9d8df1&text_color=ffffff&hide_border=true" width="48%" />
+  <!-- Reliable GitHub Profile Stats Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsareebalatif&theme=tokyonight" width="48%" />
 </div>
 
 <br/>
@@ -54,7 +54,6 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
   <!-- Dynamic Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsareebalatif&bg_color=1a162b&color=9d8df1&line=9d8df1&point=ffffff&area=true&hide_border=true" width="97%" />
 </div>
----
 
 ### ✦ Let's Connect
 
