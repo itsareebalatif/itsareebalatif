@@ -41,11 +41,8 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
 ### ✦ GitHub Stats
 
 <div align="center">
-  <!-- Streak Tracker Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" width="48%" />
-  &nbsp;
-  <!-- Reliable GitHub Profile Stats Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsareebalatif&theme=tokyonight" width="48%" />
+  <!-- Centered Streak Tracker -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" width="70%" />
 </div>
 
 <br/>
