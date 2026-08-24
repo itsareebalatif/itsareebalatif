@@ -42,19 +42,18 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
 
 <div align="center">
   <!-- Streak Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" alt="GitHub Streak" width="48%" />
-  
-  <!-- Overall Stats & Commits Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itsareebalatif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&icon_color=9d8df1&text_color=ffffff&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" width="48%" />
+  &nbsp;
+  <!-- Overall Stats Card (Clean SVG embed) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsareebalatif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&icon_color=9d8df1&text_color=ffffff&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic Activity Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsareebalatif&bg_color=1a162b&color=9d8df1&line=9d8df1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="97%" />
+  <!-- Dynamic Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsareebalatif&bg_color=1a162b&color=9d8df1&line=9d8df1&point=ffffff&area=true&hide_border=true" width="97%" />
 </div>
-
 ---
 
 ### ✦ Let's Connect
