@@ -18,7 +18,7 @@
 
 ### ✦ About Me
 
-Hi! I'm an **AI Engineer** based in Lahore — building intelligent systems, autonomous agent workflows, and data-driven applications.
+Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent systems, autonomous agent workflows, and data-driven applications.
 
 | Category | Details |
 | :--- | :--- |
