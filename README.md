@@ -38,21 +38,21 @@ Hi! I'm an **AI Engineer** based in Lahore — building intelligent systems, aut
 
 ---
 
-### ✦ GitHub Stats
+### ✦ GitHub Stats & Commits
 
 <div align="center">
-  <!-- Streak Tracker -->
+  <!-- Total Commits & GitHub Overview Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=itsareebalatif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&icon_color=9d8df1&text_color=ffffff&hide_border=true" alt="GitHub Stats and Commits" width="48%" />
+
+  <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" alt="GitHub Streak" width="48%" />
-  
-  <!-- Overall Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itsareebalatif&show_icons=true&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&icon_color=9d8df1&text_color=ffffff&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Activity Graph Matching Purple Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsareebalatif&bg_color=1a162b&color=9d8df1&line=9d8df1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="97%" />
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsareebalatif&layout=compact&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&text_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
