@@ -41,24 +41,24 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
 ### ✦ GitHub Stats
 
 <div align="center">
-  <!-- Ultra-Reliable GitHub Metrics Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsareebalatif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a162b&title_color=9d8df1&icon_color=9d8df1&text_color=ffffff&hide_border=true&cache_seconds=1800" width="48%" />
-  
-  <!-- High-Availability Streak Tracker -->
-  <img src="https://streak-stats.demolab.com/?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true&cache_seconds=1800" width="48%" />
+  <!-- Fast, High-Uptime Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" alt="Streak Stats" width="65%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic Contribution Graph with Dedicated Fallback -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsareebalatif&bg_color=1a162b&color=9d8df1&line=9d8df1&point=ffffff&area=true&hide_border=true&cache=true" width="97%" />
+  <!-- GitHub Profile 3D / Snake Activity Graph (Always loads reliably) -->
+  <img src="https://raw.githubusercontent.com/itsareebalatif/itsareebalatif/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'" />
+  <!-- Live SVG Chart Fallback -->
+  <img src="https://ghchart.rshah.org/9d8df1/itsareebalatif" alt="Areeba's GitHub Contributions Chart" width="100%" />
 </div>
+
+<br/>
 
 ### ✦ Let's Connect
 
 <div align="center">
-  <!-- Connect Badges -->
   <a href="https://areebalatif.tech/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-9d8df1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
