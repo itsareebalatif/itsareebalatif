@@ -41,20 +41,16 @@ Hi! I'm an **AI Engineer Intern**  in **Meissasoft** — building intelligent sy
 ### ✦ GitHub Stats
 
 <div align="center">
-  <!-- Fast, High-Uptime Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&hide_border=true" alt="Streak Stats" width="65%" />
+  <!-- Rock-solid Streak Card (Matches Purple Theme) -->
+  <img src="https://github-readme-streak-stats-five.vercel.app?user=itsareebalatif&theme=tokyonight&background=1a162b&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&stroke=9d8df1&hide_border=true" alt="Streak Stats" width="75%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Profile 3D / Snake Activity Graph (Always loads reliably) -->
-  <img src="https://raw.githubusercontent.com/itsareebalatif/itsareebalatif/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'" />
-  <!-- Live SVG Chart Fallback -->
+  <!-- Dynamic Contribution Graph -->
   <img src="https://ghchart.rshah.org/9d8df1/itsareebalatif" alt="Areeba's GitHub Contributions Chart" width="100%" />
 </div>
-
-<br/>
 
 ### ✦ Let's Connect
 
